@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,C++,JavaScript,Backend**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at My GitHub
 
 - 💬 Ask me about **C/C++,Frontend,Python**
 
