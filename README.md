@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaybogal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaybogal" /> </p>
 
-- 🌱 I’m currently learning **Python,C++,JavaScript,Backend**
+- 🌱 I’m currently learning **MERN Stacks**
 
 - 👨‍💻 All of my projects are available at My GitHub
 
