@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaybogal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaybogal" /> </p>
 
-- 🌱 I’m currently learning **MERN Stacks and Next.js**
+- 🌱 I’m currently learning **Actix-Web and Next.js**
 
 - 👨‍💻 All of my projects are available at My GitHub
 
-- 💬 Ask me about **C/C++,Java,Web Development**
+- 💬 Ask me about **C/C++,Java,Web Development,MERN**
 
 - 📫 How to reach me **rajputlakshay553@gmail.com**
 
